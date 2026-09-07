@@ -22,6 +22,7 @@ const content = {
       "Experiência gastronômica síria autêntica criada para apresentar os shawarmas nobres de carne e frango, os doces artesanais e a tradição do Aboud Síria no Centro Histórico de São Paulo.",
       "Experiência gastronômica tradicional criada para apresentar a autêntica comidaria e churrascaria do Churrasqueto República no Centro de São Paulo.",
       "Experiência gastronômica e cultural criada para apresentar os vinis, os arrozes na panela de ferro e a atmosfera boêmia do Conceição Discos & Comes na Vila Buarque.",
+      "Experiência digital premium criada para apresentar a cozinha italiana contemporânea, as massas artesanais e a atmosfera sofisticada do Mondo Gastronômico na Oscar Freire.",
     ],
   },
   en: {
@@ -45,6 +46,7 @@ const content = {
       "An authentic Syrian digital dining experience created to showcase the flame-roasted beef and chicken shawarmas, handcrafted baklavas, and heritage of Aboud Síria in the Historic Center of São Paulo.",
       "A traditional dining experience created to showcase the authentic steakhouse and traditional cuisine of Churrasqueto República in Downtown São Paulo.",
       "A cultural and dining experience created to showcase vinyl records, iron-skillet rice dishes and the bohemian atmosphere of Conceição Discos & Comes in Vila Buarque.",
+      "A premium digital experience created to showcase the contemporary Italian cuisine, handcrafted pasta and sophisticated atmosphere of Mondo Gastronômico on Oscar Freire.",
     ],
   },
 };
@@ -62,6 +64,7 @@ const projects = [
   { name: "Aboud Síria", image: "/aboud-siria-demo.jpg", url: "https://abudi-shawarma-production.up.railway.app/" },
   { name: "Churrasqueto República", image: "https://image.thum.io/get/width/1200/crop/760/noanimate/https://churrasqueto-rep-blica-production.up.railway.app/", url: "https://churrasqueto-rep-blica-production.up.railway.app/" },
   { name: "Conceição Discos & Comes", image: "/conceicao-discos-demo.jpg", url: "https://conceicao-discos-demo-production.up.railway.app/" },
+  { name: "Mondo Gastronômico", image: "/mondo-gastronomico-demo.webp", url: "https://mondo-gastron-mico1-production.up.railway.app/" },
 ];
 
 const Arrow = () => <svg aria-hidden="true" viewBox="0 0 24 24"><path d="M5 12h14M13 6l6 6-6 6"/></svg>;
